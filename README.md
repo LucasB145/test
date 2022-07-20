@@ -1,1 +1,1 @@
-<font size=99>☭</font>
+<font size=10000>☭</font>
